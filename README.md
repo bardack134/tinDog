@@ -5,8 +5,9 @@
 
 HINT: To fiure out which Bootstrap components/snippets are used. Refer to the PDF below:
 https://github.com/appbrewery/tindog/blob/main/Bootstrap-snippets.pdf
+![img1](https://github.com/bardack134/tinDog/assets/142977989/2916bd64-7161-41c5-b72e-0ac177d93ef5)
 
-![img1](https://github.com/bardack134/tinDog/assets/142977989/564287a5-cd1f-4f6a-b719-21571212a350)
+
 
 ![img2](https://github.com/bardack134/tinDog/assets/142977989/112d5b7f-69bb-438a-83fb-56ba8664bdcb)
 
