@@ -9,7 +9,7 @@ https://github.com/appbrewery/tindog/blob/main/Bootstrap-snippets.pdf
 
 
 
-![img2](https://github.com/bardack134/tinDog/assets/142977989/112d5b7f-69bb-438a-83fb-56ba8664bdcb)
+
 
 
 ![img3](https://github.com/bardack134/tinDog/assets/142977989/bfbf7675-d987-4c92-9e85-45866cc05805)
